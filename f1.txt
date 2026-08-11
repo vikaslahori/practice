@@ -1,3 +1,7 @@
 This is my first file in github repo in cloning practice
 
+Now i am doing some changes in file from github.
+
+
+
 
